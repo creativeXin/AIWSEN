@@ -10,6 +10,10 @@ python 3.7
 
 torchvision 0.8.2 + cu101
 
+### USA dataset
+
+[https://pan.baidu.com/s/1mbt9URipxV5UC6YoUd47Uw?pwd=r9ru](https://pan.baidu.com/s/1mbt9URipxV5UC6YoUd47Uw?pwd=r9ru)
+
 ### Usage
 
 The main function for training is AWISEN/train_HSI.py. 
