@@ -14,6 +14,9 @@ torchvision 0.8.2 + cu101
 
 [https://pan.baidu.com/s/1mbt9URipxV5UC6YoUd47Uw?pwd=r9ru](https://pan.baidu.com/s/1mbt9URipxV5UC6YoUd47Uw?pwd=r9ru)
 
+### Weights
+[https://pan.baidu.com/s/1XYbztZwZIPy1tym5Pcq0BQ?pwd=8t1m](https://pan.baidu.com/s/1XYbztZwZIPy1tym5Pcq0BQ?pwd=8t1m)
+
 ### Usage
 
 The main function for training is AWISEN/train_HSI.py. 
